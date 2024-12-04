@@ -39,3 +39,15 @@ Contributions are welcome! If you have a solution to a problem that is not yet i
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## How to Use
+
+1. **Browse Problems**: Navigate through the folders to find problems of interest.
+2. **Understand the Problem**: Read the problem statement carefully.
+3. **Review the Solution**: Check the provided solution and understand the approach.
+4. **Run the Code**: Execute the solution on your local machine to see it in action.
+5. **Practice**: Try solving similar problems on your own to improve your skills.
+
+## Contact
+
+If you have any questions or need further assistance, feel free to open an issue or contact the repository owner at [your-email@example.com].
